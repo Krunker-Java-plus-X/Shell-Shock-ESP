@@ -14,4 +14,4 @@ __________________________________
 - Make ShellShock AIMBOT
 __________________________________
 >How to download?
-- click this link and dawnload
+- click this link(https://github.com/Krunker-Java-plus-X/Shell-Shock-ESP/tree/master/Shell%20Hack%20V2) and dawnload
