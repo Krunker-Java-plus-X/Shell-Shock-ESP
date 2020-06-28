@@ -13,3 +13,5 @@ __________________________________
 - Make Krunker GOD HAX - Make Krunker Extension HAX 
 - Make ShellShock AIMBOT
 __________________________________
+>How to download?
+- click this link and dawnload
