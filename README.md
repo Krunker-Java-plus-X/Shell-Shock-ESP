@@ -19,6 +19,9 @@ __________________________________
 Hack Link https://github.com/Krunker-Java-plus-X/Shell-Shock-ESP/tree/master/Shell%20Hack%20V2 
 
 Extension chrome://extensions/
+
+- OR
+press clone and press dawnload zip and done!
 __________________________________
 >When you can't download?
 - Click this Link(MEGA) and dawnload 
