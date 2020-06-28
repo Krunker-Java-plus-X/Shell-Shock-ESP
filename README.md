@@ -14,6 +14,12 @@ __________________________________
 - Make ShellShock AIMBOT
 __________________________________
 >How to download?
-- click this link and dawnload
+- click this link and dawnload and put it in extension
 
-https://github.com/Krunker-Java-plus-X/Shell-Shock-ESP/tree/master/Shell%20Hack%20V2 
+Hack Link https://github.com/Krunker-Java-plus-X/Shell-Shock-ESP/tree/master/Shell%20Hack%20V2 
+Extension chrome://extensions/
+__________________________________
+>When you can't download?
+- Click this Link(MEGA) and dawnload 
+Hack Link (MAGA) https://mega.nz/folder/bXZTnSJT#cDj_IzoyPNSkA7nosXegZg
+Extension chrome://extensions/
